@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/react-ludo-game/static/js/runtime~main.03b5d749.js"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/react-ludo-game/static/media/fontawesome-webfont3e6e.674f50d2.eot"
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/react-ludo-game/static/media/fontawesome-webfont3e6e.af7ae505.woff2"
   },
   {
     "revision": "54c1bbd54dd579405fc7",
     "url": "/react-ludo-game/static/js/main.54c1bbd5.chunk.js"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/react-ludo-game/static/media/fontawesome-webfont3e6e.af7ae505.woff2"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/react-ludo-game/static/media/fontawesome-webfont3e6e.674f50d2.eot"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
