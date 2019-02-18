@@ -10,16 +10,135 @@
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  border: 2px solid black;
+}
+
+.left-64 {margin-left: 64px}
+.p-top-30 {padding-top: 30px}
+
+.board {
+  height: 100%;
+  width: 100%;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.seed {
+  border-radius: 100%;
+  border: 2px solid black;
+}
+
+.path {
+  border-radius: 10%;
+  /* background-color: grey; */
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* border-color: black; */
+  border: 2px solid black;
+}
+
+.size-0 {
+  width: calc(91vw / 15 / 2);
+  height: calc(91vh / 15 / 2);
+}
+
+.size-1 {
+  width: calc(91vw / 15 * 1);
+  height: calc(91vh / 15 * 1);
+}
+
+.size-3 {
+  width: calc(91vw / 15 * 3);
+  height: calc(91vh / 15 * 3);
+}
+
+.size-6 {
+  width: calc(91vw / 15 * 6);
+  height: calc(91vh / 15 * 6);
+  /* width: 360px;
+  height: 360px; */
+}
+
+.house {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 10%;
+  border: 2px solid black;
+}
+
+.center-ludo {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 10%;
+  border: 2px solid black;
+}
+
+.pd-1 {
+  padding: 30px;
+}
+
+.center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.r {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.c {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+}
+
+.c-2 {
+    flex: 0 0 19.666667%;
+    max-width: 19.666667%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+}
+
+.c-5 {
+    flex: 0 0 38.966667%;
+    max-width: 38.966667%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+}
+
+.point {
+  border-radius: 100%;
+  background-color: black;
+  width: 50%;
+  height: calc(91vh / 15 / 4);
+}
+
+.die {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 10%;
+  border: 2px solid black;
 }
 
 @keyframes App-logo-spin {

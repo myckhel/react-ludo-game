@@ -2,10 +2,13 @@
   "name": "react-ludo-game",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://myckhel.github.io/react-ludo-game/",
+  "homepage": "https://myckhel.github.io/react-ludo-game/",
   "dependencies": {
-    "react": "^16.7.0",
+    "@trendmicro/react-sidenav": "^0.4.5",
+    "react": "^16.8.2",
     "react-dom": "^16.7.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.3"
   },
   "scripts": {

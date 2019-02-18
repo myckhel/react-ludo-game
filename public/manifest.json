@@ -1,6 +1,6 @@
 {
-  "short_name": "Game of Fifteen",
-  "name": "Myckhel's Game of Fifteen",
+  "short_name": "React Ludo Game",
+  "name": "Myckhel's React Ludo Game",
   "icons": [
     {
       "src": "favicon.ico",
